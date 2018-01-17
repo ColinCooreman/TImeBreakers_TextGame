@@ -1,0 +1,11 @@
+@Blaster Pistol:
+A futuristic laser pistol, for shooting and possibly killing people.
+The real question is why does it look like an old six shooter pistol.
+This beauty has saved my life more than once.
+//
+
+@Repair kit:
+Standard issue time ship repair kit.
+What does it contain you ask, I have no clue never opened it before.
+I'm the captain not a mechanic, that's wave's job.
+//

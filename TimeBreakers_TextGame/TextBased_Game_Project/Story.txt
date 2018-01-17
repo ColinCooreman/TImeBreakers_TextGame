@@ -1,0 +1,34 @@
+Locations:
+//1.Ship
+(01)Bridge
+(02)Medbay
+(03)CargoHold
+(04)EngineRoom
+(05)ExitRamp
+(06)YourRoom
+
+//2.1985
+(07)Forest path
+(08)Los Angeles
+(09)Alley Way
+(10)Science lab
+
+//3.
+(0)2048
+(0)3048
+(0)Beyond_Time
+
+Connections:
+(01)Medbay,CargoHold,EngineRoom,ExitRamp,YourRoom
+(02)Bridge
+(03)Bridge
+(04)Bridge
+(05)Forest path,Bridge
+(06)Bridge
+
+Objects:
+(01)Control Panel,AI Interface
+(02)Analyzer,Medical Pod
+(03)Heavy Shipcannons
+(04)Engines,TimeDrive
+

@@ -1,0 +1,30 @@
+﻿Build started 8/06/2017 3:03:54.
+     1>Project "C:\Users\Colin\Desktop\Colin_Cooreman_2DAE4_Prog4\Colin_Cooreman_DAE4_TextBased_Game\TimeBreakers.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\TimeBreakers.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt MainGameFunc.cpp
+         MainGameFunc.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Colin\Desktop\Colin_Cooreman_2DAE4_Prog4\Colin_Cooreman_DAE4_TextBased_Game\Debug\TimeBreakers.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Colin\Desktop\Colin_Cooreman_2DAE4_Prog4\Colin_Cooreman_DAE4_TextBased_Game\Debug\TimeBreakers.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Colin\Desktop\Colin_Cooreman_2DAE4_Prog4\Colin_Cooreman_DAE4_TextBased_Game\Debug\TimeBreakers.lib" /MACHINE:X86 Debug\Commands.obj
+         Debug\Description_Reader.obj
+         Debug\InputReader.obj
+         Debug\Inventory.obj
+         Debug\Item.obj
+         Debug\ItemReader.obj
+         Debug\Location.obj
+         Debug\Locations_Reader.obj
+         Debug\MainGameFunc.obj
+         Debug\Music.obj
+         Debug\NPC.obj
+         Debug\NPCReader.obj
+         Debug\Player.obj
+         Debug\stdafx.obj
+         Debug\Story_Object.obj
+         Debug\Story_Object_Reader.obj
+         Debug\TimeBreakers.obj
+         Debug\TimeShip.obj
+         TimeBreakers.vcxproj -> C:\Users\Colin\Desktop\Colin_Cooreman_2DAE4_Prog4\Colin_Cooreman_DAE4_TextBased_Game\Debug\TimeBreakers.exe
+     1>Done Building Project "C:\Users\Colin\Desktop\Colin_Cooreman_2DAE4_Prog4\Colin_Cooreman_DAE4_TextBased_Game\TimeBreakers.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.03

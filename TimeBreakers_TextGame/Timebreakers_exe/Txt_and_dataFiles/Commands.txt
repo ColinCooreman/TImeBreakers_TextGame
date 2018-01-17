@@ -1,0 +1,18 @@
+Commands:
+
+(01)Move
+(02)Use
+(03)Attack
+(04)Look
+(05)Grab
+(06)Map
+(07)Speak
+Synonyms:
+
+[01]move,go,relocate,enter
+[02]use,activate,do
+[03]shoot,fire,kill,attack
+[04]look,observe
+[05]grab,hold,pick up
+[06]map
+[07]speak,talk,converse

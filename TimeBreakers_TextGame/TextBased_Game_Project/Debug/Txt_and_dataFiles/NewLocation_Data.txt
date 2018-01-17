@@ -1,0 +1,75 @@
+Locations:
+13
+(01)Bridge
+(02)Medbay
+(03)CargoHold
+(04)EngineRoom
+(05)ExitRamp
+(06)YourRoom
+(07)Forest path
+(08)Los Angeles
+(09)Alley Way
+(10)Science lab
+(11)2048
+(12)3048
+(13)Beyond_Time
+Connections:
+13
+(01)Medbay,CargoHold,EngineRoom,ExitRamp,YourRoom
+(02)Bridge
+(03)Bridge
+(04)Bridge
+(05)Forest path,Bridge
+(06)Bridge
+(07)
+(08)
+(09)
+(10)
+(11)
+(12)
+(13)
+Objects:
+13
+(01)control panel,ai interface
+(02)analyzer,medical Pod
+(03)heavy shipcannons
+(04)engines,time drive
+(05)ramp lever
+(06)captains log
+(07)
+(08)
+(09)
+(10)
+(11)
+(12)
+(13)
+NPCS:
+13
+(01)SoundWave-Bridge
+(02)
+(03)SoundWave-CargoHold
+(04)SoundWave-EngineRoom
+(05)
+(06)
+(07)
+(08)
+(09)
+(10)
+(11)
+(12)
+(13)
+Items:
+13
+(01)
+(02)
+(03)Repair kit
+(04)
+(05)
+(06)Blaster Pistol
+(07)
+(08)
+(09)
+(10)
+(11)
+(12)
+(13)

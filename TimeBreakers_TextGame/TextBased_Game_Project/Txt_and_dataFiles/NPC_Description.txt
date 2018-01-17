@@ -1,0 +1,33 @@
+@SoundWave-Bridge:
+...
+SoundWave just points to the door again.
+You Don't want to get slapped on the head again so you decide to not bother him.
+//
+
+@SoundWave-CargoHold:
+...
+SoundWave seems to be tinkering with the heavy artillery of the ship.
+You: Wave, what are you doing?
+Wave: ...
+Wave just seems to ingnore you
+You: You know your really useless when it comes to conversating.
+Wave:*static noise*
+Then you hear a distorted recording of you voice say "you know your really useless"
+You give him a deathglare but his face is a vizor so you just staring at yourself really.
+You: *mumbles* stupid smartass faceless robot.
+Wave: *static noise* "You know your really" *clicking noise* "stupid".
+You: Why do i try to talk to you.
+You earn a slap to the back of your head and Wave points to the door.
+You: This is my ship, I can go to wherever I want.
+As you dodge a second slap you realise talking to Wave might actually be a useless endeavour.
+//
+
+@SoundWave-EngineRoom:
+...
+Wave seems to be working on the Timedrive which seems to be damaged. The engines als seem to have taken some damage, 
+thats probably why they are making weird noises an smoking a bit.
+You: What can I do to help fix the ship wave?
+Wave's head rotates towards you as a weird looking component appears on the screen i call his face.
+Wave: "Make yourself usefull for once" *static noise* "Located" "In" "Cargohold" "Move quickly" *clicking noise*
+Wave turns back to the timedrive and points to the door.
+//
